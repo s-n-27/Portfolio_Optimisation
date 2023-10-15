@@ -1,1 +1,3 @@
-# Portfolio_Optimisation
+# Portfolio Optimisation using Markowitz Model
+Portfolio management using the Markowitz Model, also known as Modern Portfolio Theory (MPT), is a widely used approach to build and manage investment portfolios that aim to achieve an optimal balance between risk and return.
+The Markowitz Model provides a systematic framework for constructing portfolios that optimize the trade-off between risk and return. It's important to note that it has its limitations and assumptions, such as the assumption that returns follow a normal distribution. Additionally, real-world implementation may involve transaction costs, taxes, and other practical considerations that need to be taken into account.
